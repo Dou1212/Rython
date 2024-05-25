@@ -1,0 +1,33 @@
+.botones {
+    left: 100%;
+}
+.botones a {
+    padding: 5px;
+}
+/*PCCCC*/
+@media screen and (min-width: 768px) {
+    .fotode{
+        width: 45%;
+        height: auto;
+        float: right;
+        margin-top: -150px;
+    }
+  }
+
+.roblox {
+    font-size: 30px;
+    padding: 10px;
+}
+
+.roblox:hover {
+    color: black;
+}
+
+.minecraft {
+    color: gray;
+}
+.games {
+    
+    justify-content: center;
+    align-items: center;
+    }
